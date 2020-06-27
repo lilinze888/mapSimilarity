@@ -1,0 +1,7 @@
+server:
+  port: 8866
+spring:
+  application:
+    name: mapSimilarity-service
+  redis:
+    host: 192.168.228.231
